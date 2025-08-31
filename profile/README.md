@@ -8,4 +8,4 @@ I have a huge passion for FOSS projects and I love tinkering with projects when 
 Hey, since your here, you should totally check out my website with this [Link](https://mixtapejaxson.github.io). It goes into much more detail than this Read Me markdown file.
 
 ### License
-> This README and all other files in this repo are licensed under the **CC-BY-NC-SA** license. [See Terms](../LICENSE).
+> This README and all other files in this repo are licensed under the **CC-BY-NC-SA** license. [See Terms](https://github.com/mixtapejaxson/.github/blob/main/LICENSE).

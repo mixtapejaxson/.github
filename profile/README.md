@@ -9,5 +9,5 @@ Hey, since your here, you should totally check out my website with this [Link](h
 
 
 
-### License
+### [License](https://github.com/mixtapejaxson/.github/blob/main/LICENSE)
 > This README and all other files in this repo are licensed under the **CC-BY-NC-SA** license. [See Terms](https://github.com/mixtapejaxson/.github/blob/main/LICENSE).

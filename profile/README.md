@@ -4,7 +4,6 @@ I love writing code and contributing to FOSS. I tinker, I learn, and I share wha
 
 ## 🔗 Quick Links
 - **Website:** https://mixtapejaxson.github.io
-- **License:** See the [LICENSE](https://github.com/mixtapejaxson/.github/blob/main/LICENSE)
 
 ---
 
@@ -36,7 +35,8 @@ I have a huge passion for **free and open-source software** and spend a lot of m
 ---
 
 ## 🚀 Projects & Highlights
-- **MixClick** – clicks ↔ cash conversion, dynamic pricing, JSON saves, lucky blocks.
+- **[MixClick](https://github.com/mixtapejaxson/MixClick)** – clicks ↔ cash conversion, dynamic pricing, JSON saves, lucky blocks.
+- **[ChatTweak](https://github.com/mixtapejaxson/ChatTweak)** – A useful set of features for a *(certian)* chat application.
 > _Want a write-up on any of these? File an issue on the repo and I’ll expand the README with setup, screenshots, and design notes._
 
 ---

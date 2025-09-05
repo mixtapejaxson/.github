@@ -3,7 +3,7 @@
 I love writing code and contributing to FOSS. I tinker, I learn, and I share what I build.
 
 ## 🔗 Quick Links
-- **Website:** https://mixtapejaxson.github.io
+- **Website:** https://www.mixtapejaxson.com
 
 ---
 

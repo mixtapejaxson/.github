@@ -35,7 +35,7 @@ I have a huge passion for **free and open-source software** and spend a lot of m
 ---
 
 ## 🚀 Projects & Highlights
-- **[MixClick](https://github.com/mixtapejaxson/MixClick)** – clicks ↔ cash conversion, dynamic pricing, JSON saves, lucky blocks.
+- **[MixClick](https://mixclick.mixtapejaxson.com)** – clicks ↔ cash conversion, dynamic pricing, JSON saves, lucky blocks.
 - **[ChatTweak](https://chattweak.com)** – A useful set of features for a *(certian)* chat application.
 > _Want a write-up on any of these? File an issue on the repo and I’ll expand the README with setup, screenshots, and design notes._
 
@@ -49,7 +49,7 @@ I have a huge passion for **free and open-source software** and spend a lot of m
 ---
 
 ## 📫 Contact
-- Website: **https://mixtapejaxson.github.io**
+- Website: **https://mixtapejaxson.com**
 - GitHub: **@mixtapejaxson**
 
 ---

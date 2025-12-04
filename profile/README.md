@@ -61,6 +61,6 @@ I have a huge passion for **free and open-source software** and spend a lot of m
 > See the full terms in the [LICENSE](https://github.com/mixtapejaxson/.github/blob/main/LICENSE).
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mixtapejaxson&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixtapejaxson&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mixtapejaxson&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixtapejaxson&layout=compact&theme=transparent)
 

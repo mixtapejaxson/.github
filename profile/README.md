@@ -4,6 +4,7 @@ I love writing code and contributing to FOSS. I tinker, I learn, and I share wha
 
 ## 🔗 Quick Links
 - **Website:** https://www.mixtapejaxson.com
+- **ChatTweak**: https://github.com/mixtapejaxson/ChatTweak
 
 ---
 
